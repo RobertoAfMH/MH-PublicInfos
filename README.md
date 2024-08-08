@@ -1,7 +1,7 @@
 {
   "releaseNotes":"-Resolução de bugs\n\n-Acesso via SSO",
-  "minimumOsVersion":"1.1.191",
-  "minimumPlayVersion":"1.1.191",
-  "version":"1.1.191",
+  "minimumOsVersion":"1.1.193",
+  "minimumPlayVersion":"1.1.193",
+  "version":"1.1.190",
   "releaseDate":"2023-04-20T07:00:00Z"
 }
