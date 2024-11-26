@@ -4,7 +4,7 @@
   "releaseNotesES":"releaseNotesES",
   "releaseNotesEN":"releaseNotesEN",
   "minimumOsVersion":"1.1.204",
-  "minimumPlayVersion":"1.1.205",
-  "version":"1.1.205",
+  "minimumPlayVersion":"1.1.204",
+  "version":"1.1.204",
   "releaseDate":"2024-11-18T15:00:00Z"
 }
