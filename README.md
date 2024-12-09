@@ -1,5 +1,5 @@
 {
-  "releaseNotes":"- Novo sistema de câmera: Facilita a manipulação dos objetos 3D.\n- Melhorias de performance: Aumento na velocidade de processamento e estabilidade.\n- Correção de bugs: Diversos erros foram corrigidos.\n Recomendamos a atualização para garantir o melhor desempenho e usabilidade do aplicativo.",
+  "releaseNotes":"- Novo sistema de câmera: Facilita a manipulação dos objetos 3D.\n- Melhorias de performance: Aumento na velocidade de processamento e estabilidade.\n- Correção de bugs.\n Recomendamos a atualização para garantir o melhor desempenho e usabilidade do aplicativo.",
   "releaseNotesPT":"releaseNotesPT",
   "releaseNotesES":"releaseNotesES",
   "releaseNotesEN":"releaseNotesEN",
