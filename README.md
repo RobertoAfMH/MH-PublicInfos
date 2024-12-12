@@ -3,8 +3,8 @@
   "releaseNotesPT":"releaseNotesPT",
   "releaseNotesES":"releaseNotesES",
   "releaseNotesEN":"releaseNotesEN",
-  "minimumOsVersion":"1.1.205",
-  "minimumPlayVersion":"1.1.205",
+  "minimumOsVersion":"1.1.200",
+  "minimumPlayVersion":"1.1.200",
   "version":"1.1.208",
   "releaseDate":"2024-11-18T15:00:00Z"
 }
