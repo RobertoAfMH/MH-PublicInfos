@@ -1,10 +1,10 @@
 {
   "releaseNotes":"",
-  "releaseNotesPT":" - Modo Offline \n \n - Novo Sistema de Seleção \n \n - Refatoração e Performance",
-  "releaseNotesES":" - Modo Sin Conexión \n \n - Nuevo Sistema de Selección \n \n - Refactorización y Rendimiento",
-  "releaseNotesEN":" - Offline Mode \n \n - New Selection System \n \n - Code Refactoring & Performance",
+  "releaseNotesPT":" - Melhorias no sistema de câmeras virtuais \n \n - Aprimoramentos na seleção de elementos \n \n - Performance geral otimizada",
+  "releaseNotesES":" - Mejoras en la cámara virtual \n \n - Optimización en la selección de elementos \n \n - Mejoras de rendimiento",
+  "releaseNotesEN":" - Virtual camera improvements \n \n - Enhanced element selection \n \n - Performance improvements",
   "minimumOsVersion":"1.1.216",
   "minimumPlayVersion":"1.1.216",
-  "version":"1.1.216",
-  "releaseDate":"2025-07-28T15:00:00Z"
+  "version":"1.1.217",
+  "releaseDate":"2025-09-10T15:00:00Z"
 }
