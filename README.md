@@ -5,6 +5,6 @@
   "releaseNotesEN":" - Virtual camera improvements \n \n - Enhanced element selection \n \n - Performance improvements",
   "minimumOsVersion":"1.1.217",
   "minimumPlayVersion":"1.1.217",
-  "version":"1.1.218",
+  "version":"1.1.219",
   "releaseDate":"2025-09-10T15:00:00Z"
 }
