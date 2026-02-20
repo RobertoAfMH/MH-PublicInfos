@@ -5,6 +5,6 @@
   "releaseNotesEN":" - Performance improvements for a faster and more stable experience \n \n - Bug fixes to improve overall reliability",
   "minimumOsVersion":"1.1.216",
   "minimumPlayVersion":"1.1.216",
-  "version":"1.1.216",
+  "version":"1.1.224",
   "releaseDate":"2026-01-14T09:00:00Z"
 }
