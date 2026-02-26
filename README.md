@@ -6,5 +6,5 @@
   "minimumOsVersion":"1.1.216",
   "minimumPlayVersion":"1.1.216",
   "version":"1.1.226",
-  "releaseDate":"2026-01-14T09:00:00Z"
+  "releaseDate":"2026-01-25T09:00:00Z"
 }
