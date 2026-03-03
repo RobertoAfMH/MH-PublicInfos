@@ -1,10 +1,10 @@
 {
   "releaseNotes":"",
-  "releaseNotesPT":" - Melhorias de performance para uma experiência mais rápida e estável \n \n - Correções de bugs para aumentar a confiabilidade do aplicativo",
-  "releaseNotesES":" - Mejoras de rendimiento para una experiencia más rápida y estable \n \n - Corrección de errores para mejorar la confiabilidad de la aplicación",
-  "releaseNotesEN":" - Performance improvements for a faster and more stable experience \n \n - Bug fixes to improve overall reliability",
-  "minimumOsVersion":"1.1.216",
-  "minimumPlayVersion":"1.1.216",
-  "version":"1.1.226",
-  "releaseDate":"2026-01-25T09:00:00Z"
+  "releaseNotesPT":" - Novos visualizadores de Lâminas e Imagens Médicas \n \n - Novos módulos de Histologia, Histopatologia e Radiologia",
+  "releaseNotesES":" - Nuevos visores de Láminas e Imágenes Médicas \n \n - Nuevos módulos de Histología, Histopatología y Radiología",
+  "releaseNotesEN":" - New Slide and Medical Image viewers \n \n - New Histology, Histopathology, and Radiology modules",
+  "minimumOsVersion":"1.1.217",
+  "minimumPlayVersion":"1.1.217",
+  "version":"1.1.227",
+  "releaseDate":"2026-03-03T09:00:00Z"
 }
