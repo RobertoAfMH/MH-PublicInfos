@@ -5,6 +5,6 @@
   "releaseNotesEN":" - Interactive Quiz: Enjoy a fun quiz during initial app loading. \n \n - Related Content: Discover personalized recommendations directly inside the viewer. \n \n -  Performance & Bug Fixes: Under-the-hood optimizations and bug fixes for a smoother experience.",
   "minimumOsVersion":"1.1.236",
   "minimumPlayVersion":"1.1.236",
-  "version":"1.1.237",
+  "version":"1.1.236",
   "releaseDate":"2026-10-06T15:00:00Z"
 }
