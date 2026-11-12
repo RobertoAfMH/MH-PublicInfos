@@ -1,10 +1,10 @@
 {
   "releaseNotes":"",
-  "releaseNotesPT":" - Quiz Interativo: Divirta-se com um quiz rápido enquanto o aplicativo carrega. \n \n - Conteúdos Relacionados: Descubra novas recomendações diretamente no visualizador. \n \n - Melhorias e Ajustes: Otimizações de performance e correções de bugs para uma navegação mais fluida.",
-  "releaseNotesES":" - Quiz Interactivo: Disfruta de un juego rápido durante la carga inicial de la aplicación. \n \n - Contenido Relacionado: Descubre nuevas recomendaciones directamente dentro del visor. \n \n - Mejoras y Correcciones: Optimización de rendimiento y resolución de errores para una navegación más fluida.",
-  "releaseNotesEN":" - Interactive Quiz: Enjoy a fun quiz during initial app loading. \n \n - Related Content: Discover personalized recommendations directly inside the viewer. \n \n -  Performance & Bug Fixes: Under-the-hood optimizations and bug fixes for a smoother experience.",
-  "minimumOsVersion":"1.1.236",
-  "minimumPlayVersion":"1.1.236",
-  "version":"1.1.236",
+  "releaseNotesPT":"- Desenho 2D: desenhe e faça anotações direto sobre o conteúdo. \n \n - Esmaecer: deixe estruturas semitransparentes para ver o que está por trás delas. \n \n - Nova interface: botões reorganizados para facilitar o uso. \n \n - Alertas reformulados: avisos mais claros e fáceis de entender.",
+  "releaseNotesES":"- Dibujo 2D: dibuja y haz anotaciones directamente sobre el contenido. \n \n - Atenuar: deja las estructuras semitransparentes para ver lo que hay detrás. \n \n - Nueva interfaz: botones rediseñados para facilitar el uso. \n \n - Alertas rediseñadas: avisos más claros y fáciles de entender.",
+  "releaseNotesEN":"- 2D Drawing: draw and add notes directly on the content. \n \n - Fade: make structures semi-transparent to see what’s behind them. \n \n - New interface: redesigned buttons for easier navigation. \n \n - Redesigned alerts: clearer, easier-to-read alerts.",
+  "minimumOsVersion":"1.3.305",
+  "minimumPlayVersion":"1.3.305",
+  "version":"1.3.306",
   "releaseDate":"2026-10-06T15:00:00Z"
 }
